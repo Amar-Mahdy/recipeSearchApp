@@ -1,6 +1,6 @@
 # recipeSearchApp
 
-#overview
+# overview
 
 this App(recipeSearchApp) is an app for searching about a delicious recipes for your ingredients, you you just need to put on the input feild one of your
 ingredients and this app will show you up to 27 recipe so you can choose among them the most one you like.
@@ -17,7 +17,7 @@ and the js file
 this searching app uses EDAMAM api to feth some data witch is a recipes and other information about the ingredients hase been used in this recipes and present 
 this information to the user in a very nice way to be easy to access and use.
 
-#how does it work
+# how does it work
 
 first this is the link for the App on Github => ( https://amar-mahdy.github.io/recipeSearchApp/ ) 
 when you open the link it will show a webpage with search input, by typing any ingredient in this input it will show you 27 recipes in different cards which card 
