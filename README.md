@@ -19,7 +19,7 @@ this information to the user in a very nice way to be easy to access and use.
 
 # how does it work
 
-first this is the link for the App on Github => ( https://amar-mahdy.github.io/recipeSearchApp/ ) 
+firstly this is the link for the App on Github => ( https://amar-mahdy.github.io/recipeSearchApp/ ) 
 when you open the link it will show a webpage with search input, by typing any ingredient in this input it will show you 27 recipes in different cards which card 
 has the photo of the recipe and the name of it, at the bottom of the card there is a Get recipe button by clicking on it will pop up a dialog which contains more 
 information about the ingredients of the recipe, health label, diet label and calories and in the bottom of this dialog there is a linke has been attached will 
