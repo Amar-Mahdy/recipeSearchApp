@@ -1,6 +1,6 @@
 # recipeSearchApp
 
-##👉 look at my App here https://amar-mahdy.github.io/recipeSearchApp/ 
+## 👉 look at my App here https://amar-mahdy.github.io/recipeSearchApp/ 
 # overview
 
 this App(recipeSearchApp) is an app for searching about a delicious recipes for your ingredients, you you just need to put on the input feild one of your
